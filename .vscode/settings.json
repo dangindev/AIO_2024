@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "dangindev",
+        "projectKey": "dangindev_AIO_2024"
+    }
+}
