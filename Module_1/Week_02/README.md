@@ -3,3 +3,4 @@
 - EX2: Character Counting.
 - EX3: Word Counting
 - EX4: Levenshtein Distance
+- Quiz Function
