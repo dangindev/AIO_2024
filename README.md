@@ -6,3 +6,4 @@ This repository will store assignments and work for the AIO 2024 course
 - Week 1: Activation functions
 - Week 2: Data Structure
 - Week 3: Python OOP Exercise
+- Week 4: Streamlit
