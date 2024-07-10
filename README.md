@@ -13,4 +13,3 @@ This repository will store assignments and work for the AIO 2024 course
 
 ## Moduel 2
 - Week 5: Numpy
->>>>>>> feature/week_05
