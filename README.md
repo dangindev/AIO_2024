@@ -12,3 +12,5 @@ This repository will store assignments and work for the AIO 2024 course
 - Week 1: Numpy
 - Week 2: Vector Exercise
 
+## Module 3
+- Week 1: Data Analysis
